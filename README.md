@@ -22,9 +22,9 @@ While most engineers focus on maximizing test accuracy, I focus on opening the "
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Trustworthy CXR](https://github.com/gauravhadavale07/YOUR-XRAY-REPO)** | **Medical Audit:** Exposed "Clever Hans" behavior in DenseNet pneumonia models. Proven that high accuracy was driven by looking at text markers, not lungs. | `PyTorch` `Grad-CAM` |
-| **[Latent Counterfactuals](https://github.com/gauravhadavale07/YOUR-LLM-REPO)** | **LLM Safety:** Performed "Neural Surgery" on GPT-2 to steer emotional generation. Discovered a structural **Safety Asymmetry** in the residual stream. | `TransformerLens` `Python` |
-| **[CIFAKE Forensics](https://github.com/gauravhadavale07/YOUR-CIFAKE-REPO)** | **Vision Forensics:** Built a data-efficient Deepfake Detector (91% acc on 5k samples) using spectral analysis to identify GAN artifacts. | `CNN` `Custom Arch` |
+| **[Trustworthy CXR 🩻](https://github.com/gauravhadavale07/YOUR-XRAY-REPO)** | **Medical Audit:** Developed a DenseNet framework for Pneumonia screening. Used **GradCAM++ & RISE** to reveal that high-confidence predictions were often driven by non-pathological artifacts (e.g., text markers) rather than lung opacities. | `PyTorch` `Grad-CAM++` `DenseNet` |
+| **[Latent Counterfactuals 🧠](https://github.com/gauravhadavale07/YOUR-LLM-REPO)** | **Causal Auditing:** Investigated affective steering in LLMs. Proved that concept-aligned directions induce systematic changes in **discourse structure** (e.g., self-reference), whereas random norm-matched vectors only produce noise. | `TransformerLens` `Python` `Stats` |
+| **[CIFAKE Forensics 🕵️‍♂️](https://github.com/gauravhadavale07/YOUR-CIFAKE-REPO)** | **Vision Forensics:** Built a data-efficient Deepfake Detector (91% acc on 5k samples) using spectral analysis to identify high-frequency GAN artifacts invisible to the human eye. | `CNN` `Custom Arch` `FFT` |
 
 ---
 
