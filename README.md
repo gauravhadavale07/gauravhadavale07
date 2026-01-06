@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>| Mechanistic Interpretability | Medical AI Auditing</h3>
+  <h3>Undergraduate Researcher | Mechanistic Interpretability | Medical AI Auditing</h3>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@ I am an undergraduate researcher driven by a single question:
 
 > **“What internal mechanism caused the model to make this prediction?”**
 
-While much of applied ML focuses on maximizing surface-level metrics such as accuracy or AUROC, my work focuses on **model auditing**—treating deep learning systems as causal objects that must be inspected, stress-tested, and corrected before they can be trusted in high-stakes settings.
+While much of applied machine learning emphasizes surface-level metrics such as accuracy or AUROC, my work focuses on **model auditing**—treating deep learning systems as causal objects that must be inspected, stress-tested, and corrected before they can be trusted in high-stakes settings.
 
 My interests lie at the intersection of **mechanistic interpretability**, **explainability-driven audits**, and **causal interventions** in both vision models and language models.
 
@@ -62,18 +62,13 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="160"
-    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github';"
   />
-
-  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     height="160"
-    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6';"
   />
 </div>
 
