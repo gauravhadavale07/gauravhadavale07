@@ -1,52 +1,69 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gaurav+Hadavale!;Undergrad+Student+%40+SPIT+Mumbai;Decoding+How+AI+Models+Think;Focus%3A+Interpretability+%26+Safety;Building+Trustworthy+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gaurav+Hadavale;Undergraduate+Researcher+in+AI;Mechanistic+Interpretability+%26+Medical+AI;Auditing+Models%2C+Not+Just+Training+Them;Building+Trustworthy+ML+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>Undergraduate Student | Mechanistic Interpretability | Medical AI Auditing</h3>
+  <h3>Undergraduate Researcher | Mechanistic Interpretability | Medical AI Auditing</h3>
 </div>
 
 <br/>
 
-I am an undergraduate student driven by a single question: **"Why did the model predict that?"**
+---
 
-While most engineers focus on maximizing test accuracy, I focus on opening the "Black Box" of Deep Learning. My work treats AI models—from Computer Vision to LLMs—as control systems that must be audited, steered, and debugged to ensure they are safe and trustworthy.
+### 🧠 Research Motivation
 
-- 🔭 I’m currently auditing **GPT-2's internal reasoning** using Activation Steering.
-- 🩻 I previously exposed **Shortcut Learning** in Pneumonia Detection models.
-- ⚡ **Philosophy:** Accuracy is meaningless without explainability.
+I am an undergraduate researcher driven by a single question:
+
+> **“What internal mechanism caused the model to make this prediction?”**
+
+While much of applied ML focuses on maximizing surface-level metrics such as accuracy or AUROC, my work focuses on **model auditing**—treating deep learning systems as causal objects that must be inspected, stress-tested, and corrected before they can be trusted in high-stakes settings.
+
+My interests lie at the intersection of **mechanistic interpretability**, **explainability-driven audits**, and **causal interventions** in both vision models and language models.
 
 ---
 
-### 📝 Key Research
+### 🔬 Current Focus
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Trustworthy CXR 🩻](https://github.com/gauravhadavale07/YOUR-XRAY-REPO)** | **Medical Audit:** Developed a DenseNet framework for Pneumonia screening. Used **GradCAM++ & RISE** to reveal that high-confidence predictions were often driven by non-pathological artifacts (e.g., text markers) rather than lung opacities. | `PyTorch` `Grad-CAM++` `DenseNet` |
-| **[Latent Counterfactuals 🧠](https://github.com/gauravhadavale07/YOUR-LLM-REPO)** | **Causal Auditing:** Investigated affective steering in LLMs. Proved that concept-aligned directions induce systematic changes in **discourse structure** (e.g., self-reference), whereas random norm-matched vectors only produce noise. | `TransformerLens` `Python` `Stats` |
-| **[CIFAKE Forensics 🕵️‍♂️](https://github.com/gauravhadavale07/YOUR-CIFAKE-REPO)** | **Vision Forensics:** Built a data-efficient Deepfake Detector (91% acc on 5k samples) using spectral analysis to identify high-frequency GAN artifacts invisible to the human eye. | `CNN` `Custom Arch` `FFT` |
+- 🧠 **Mechanistic Interpretability in LLMs**  
+  Auditing GPT-2 using activation steering to localize and causally intervene on semantic and affective representations in the residual stream.
+
+- 🩻 **Medical AI Reliability**  
+  Diagnosing shortcut learning in chest X-ray models using attribution methods combined with controlled counterfactual interventions.
+
+- ⚖️ **Core Belief**  
+  **Accuracy without causal understanding is technical debt.**
 
 ---
 
-### 🛠️ Tools & Frameworks
+### 📝 Research Projects
+
+| Project | Research Contribution | Methods |
+|------|----------------------|--------|
+| **Trustworthy CXR 🩻** | Conducted an audit of pneumonia detection models and demonstrated reliance on non-pathological artifacts (text markers, anatomical shortcuts). Validated findings via controlled causal image interventions rather than saliency alone. | PyTorch, DenseNet, GradCAM++, RISE |
+| **Latent Counterfactuals 🧠** | Performed causal auditing of GPT-2 using activation steering. Showed that concept-aligned directions induce structured behavioral changes, while norm-matched random vectors do not—establishing causal specificity. | TransformerLens, Activation Steering, Statistical Analysis |
+| **CIFAKE Forensics 🕵️‍♂️** | Built a data-efficient deepfake detector leveraging frequency-domain artifacts produced by GANs, invisible to human perception. | CNNs, FFT, Custom Architectures |
+
+---
+
+### 🛠️ Technical Toolkit
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TransformerLens-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical_AI-DC143C?style=for-the-badge&logo=health&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medical%20AI-DC143C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/gauravhadavale07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/gauravhadavale07">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
@@ -55,8 +72,9 @@ While most engineers focus on maximizing test accuracy, I focus on opening the "
 
 ---
 
+### 📫 Contact
+
 <div align="center">
-  <br>
   <a href="mailto:hadavalegaurav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
