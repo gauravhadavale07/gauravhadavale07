@@ -6,7 +6,7 @@
 
 ### 🧠 Research Motivation
 
-I am an undergraduate researcher driven by a single question:
+I am an undergraduate student who is driven by a single question:
 
 > **“What internal mechanism caused the model to make this prediction?”**
 
