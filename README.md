@@ -37,7 +37,7 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 
 ### 📝 Research Projects
 
-| Project | Research Contribution | Methods |
+| Project |  Contribution | Methods |
 |------|----------------------|--------|
 | **Trustworthy CXR 🩻** | Audited pneumonia detection models and demonstrated reliance on non-pathological artifacts (text markers, anatomical shortcuts). Validated findings via controlled causal image interventions. | PyTorch, DenseNet, GradCAM++, RISE |
 | **Latent Counterfactuals 🧠** | Causal auditing of GPT-2 via activation steering. Showed concept-aligned directions induce structured behavioral changes, while norm-matched random vectors do not. | TransformerLens, Activation Steering, Statistics |
