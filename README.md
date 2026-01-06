@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gaurav+Hadavale;Undergraduate+Researcher+in+AI;Mechanistic+Interpretability+%26+Medical+AI;Auditing+Models%2C+Not+Just+Training+Them;Building+Trustworthy+ML+Systems" alt="Typing SVG" />
 </div>
 
@@ -69,3 +69,4 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
+](https://github.com/gauravhadavale07)
