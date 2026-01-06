@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Undergraduate Researcher | Mechanistic Interpretability | Medical AI Auditing</h3>
+  <h3>| Mechanistic Interpretability | Medical AI Auditing</h3>
 </div>
 
 <br/>
@@ -39,9 +39,9 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 
 | Project | Research Contribution | Methods |
 |------|----------------------|--------|
-| **Trustworthy CXR 🩻** | Conducted an audit of pneumonia detection models and demonstrated reliance on non-pathological artifacts (text markers, anatomical shortcuts). Validated findings via controlled causal image interventions rather than saliency alone. | PyTorch, DenseNet, GradCAM++, RISE |
-| **Latent Counterfactuals 🧠** | Performed causal auditing of GPT-2 using activation steering. Showed that concept-aligned directions induce structured behavioral changes, while norm-matched random vectors do not—establishing causal specificity. | TransformerLens, Activation Steering, Statistical Analysis |
-| **CIFAKE Forensics 🕵️‍♂️** | Built a data-efficient deepfake detector leveraging frequency-domain artifacts produced by GANs, invisible to human perception. | CNNs, FFT, Custom Architectures |
+| **Trustworthy CXR 🩻** | Audited pneumonia detection models and demonstrated reliance on non-pathological artifacts (text markers, anatomical shortcuts). Validated findings via controlled causal image interventions. | PyTorch, DenseNet, GradCAM++, RISE |
+| **Latent Counterfactuals 🧠** | Causal auditing of GPT-2 via activation steering. Showed concept-aligned directions induce structured behavioral changes, while norm-matched random vectors do not. | TransformerLens, Activation Steering, Statistics |
+| **CIFAKE Forensics 🕵️‍♂️** | Built a data-efficient deepfake detector using frequency-domain GAN artifacts invisible to human perception. | CNNs, FFT, Custom Architectures |
 
 ---
 
@@ -62,16 +62,22 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 ### 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="160"
+    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github';"
   />
+
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
     height="160"
+    onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6';"
   />
 </div>
 
+---
 
 ### 📫 Contact
 
