@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Undergraduate Researcher | Mechanistic Interpretability | Medical AI Auditing</h3>
+  <h3> Research Interest= Mechanistic Interpretability | Medical AI Auditing </h3>
 </div>
 
 <br/>
