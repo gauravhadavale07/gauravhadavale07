@@ -62,15 +62,16 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gauravhadavale07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/gauravhadavale07">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gauravhadavale07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhadavale07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="160"
+  />
 </div>
 
----
 
 ### 📫 Contact
 
