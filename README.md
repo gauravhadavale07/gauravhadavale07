@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gaurav+Hadavale;Undergraduate+Researcher+in+AI;Mechanistic+Interpretability+%26+Medical+AI;Auditing+Models%2C+Not+Just+Training+Them;Building+Trustworthy+ML+Systems" alt="Typing SVG" />
 </div>
 
@@ -18,14 +18,11 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 
 ### 🔬 Current Focus
 
-- 🧠 **Mechanistic Interpretability in LLMs**  
-  Auditing GPT-2 using activation steering to localize and causally intervene on semantic and affective representations in the residual stream.
+- 🧠 **Mechanistic Interpretability in LLMs** Auditing GPT-2 using activation steering to localize and causally intervene on semantic and affective representations in the residual stream.
 
-- 🩻 **Medical AI Reliability**  
-  Diagnosing shortcut learning in chest X-ray models using attribution methods combined with controlled counterfactual interventions.
+- 🩻 **Medical AI Reliability** Diagnosing shortcut learning in chest X-ray models using attribution methods combined with controlled counterfactual interventions.
 
-- ⚖️ **Core Belief**  
-  **Accuracy without causal understanding is technical debt.**
+- ⚖️ **Core Belief** **Accuracy without causal understanding is technical debt.**
 
 ---
 
@@ -35,6 +32,7 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
 |------|----------------------|--------|
 | **Trustworthy CXR 🩻** | Audited pneumonia detection models and demonstrated reliance on non-pathological artifacts (text markers, anatomical shortcuts). Validated findings via controlled causal image interventions. | PyTorch, DenseNet, GradCAM++, RISE |
 | **Latent Counterfactuals 🧠** | Causal auditing of GPT-2 via activation steering. Showed concept-aligned directions induce structured behavioral changes, while norm-matched random vectors do not. | TransformerLens, Activation Steering, Statistics |
+| **Manifold Counterfactuals ❤️** | Developed a VAE-based framework for heart disease risk explanation. Constrained optimization to the patient manifold to generate realistic, actionable clinical interventions, unlike standard adversarial baselines. | PyTorch, VAE, PCA, Youden's J |
 | **CIFAKE Forensics 🕵️‍♂️** | Built a data-efficient deepfake detector using frequency-domain GAN artifacts invisible to human perception. | CNNs, FFT, Custom Architectures |
 
 ---
@@ -63,4 +61,3 @@ My interests lie at the intersection of **mechanistic interpretability**, **expl
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
-](https://github.com/gauravhadavale07)
